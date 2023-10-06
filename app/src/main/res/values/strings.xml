@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Volume</string>
+    <string name="number">0</string>
+    <string name="title_activity_internal_storage">InternalStorage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="Get">GET</string>
+    <string name="Next">NEXT</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="play">PLAY</string>
+    <string name="CALL">CALL</string>
+    <string name="landscape">Landscape</string>
+    <string name="name">HARMANPREET KAUR</string>
+    <string name="fadeIn">Fade_in</string>
+    <string name="fadeOut">Fade_out</string>
+    <string name="zoomIn">Zoom_in</string>
+    <string name="zoomOut">Zoom_out</string>
+    <string name="slideUp">Slide_up</string>
+    <string name="slideDown">Slide_down</string>
+    <string name="bounce">Bounce</string>
+    <string name="rotate">Rotate</string>
+</resources>
